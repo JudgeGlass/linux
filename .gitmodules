@@ -1,0 +1,3 @@
+[submodule "rpi-kernel-dev"]
+	path = rpi-kernel-dev
+	url = git@github.com:JudgeGlass/rpi-kernel-dev.git
